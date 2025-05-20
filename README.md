@@ -6,8 +6,8 @@
 ---
 > ### :man_technologist: About Me:
 - 😄 Pronouns: He/him
-- 🖥 Seasoned Software Automation Engineer
-- 🎓 Master of Computer Science from the Visvesvarayya Technological University, India
+- 🖥 Seasoned Software Test Automation Engineer
+- 🎓 Master of Computer Science from the Visvesvaraya Technological University, India
 
 ---
 > ### 🛠 Tools:
@@ -22,7 +22,7 @@
 <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/a/appium.svg" alt="appium" width="40" height="40"/> </a>
 <a href="https://smartbear.com/product/testcomplete/" target="_blank" rel="noreferrer"> <img src="https://qualitywatcher.com/wp-content/uploads/2015/04/testcomplete-logo-rs.png" alt="TestComplete" width="40" height="40"/> </a>
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://scalac.io/wp-content/uploads/Rest-Asure.png" alt="Rest Assured" width="40" height="40"/> </a>
-<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://docs.testit.software/images/integrations/testng.png" alt="TestNG" width="40" height="40"/> </a>
+<a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/EffLNhJzlf4/hqdefault.jpg" alt="TestNG" width="40" height="40"/> </a>
 
 
 <!--
@@ -34,7 +34,8 @@ https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg
 <a href="https://gradle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21~bgwhite.svg" alt="Gradle" width="40" height="40"/> 
 
 #### Version Control Systems:
-
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="Git" width="40" height="40"/> 
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/>
 
 #### Dev-Ops Tools:
 <a href="https://aws.amazon.com/free/?trk=4940c16b-77b7-493b-98cc-36b807cd78ed&sc_channel=ps&ef_id=CjwKCAjwravBBhBjEiwAIr30VLZVnepO9a_SbL3cQoF5fwqjBN2ILj-qtdNWVd-p2YaBs-IPfcMgjhoC0boQAvD_BwE:G:s&s_kwcid=AL!4422!3!752128947240!e!!g!!amazon%20web%20services!22561812958!180040698416&gad_campaignid=22561812958&gbraid=0AAAAADjHtp-P8FNCq_Q19zYYyADFsX2gi&gclid=CjwKCAjwravBBhBjEiwAIr30VLZVnepO9a_SbL3cQoF5fwqjBN2ILj-qtdNWVd-p2YaBs-IPfcMgjhoC0boQAvD_BwE&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="Amazon Web Services" width="40" height="40"/>
