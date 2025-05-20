@@ -1,5 +1,9 @@
 ### Hello 👋 / ನಮಸ್ಕಾರ(Namaskara) 🙏 
 #### I am Akhilesh Halekote Mohan.
+![giphy_cmprsd_cropped](https://github.com/user-attachments/assets/8b0b5338-cf59-441c-8428-67b75028500c)
+
+
+
 ---
 > ### :man_technologist: About Me:
 - 😄 Pronouns: He/him
