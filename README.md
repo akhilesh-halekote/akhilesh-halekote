@@ -55,7 +55,7 @@ https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg
 --- 
 > ### 📫 ${\textsf{\color{lightgreen}How To Reach Me}}$
 <a href="mailto:akhileshhalekotemohan@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8f8c96a3-1064-4e24-85b6-e8ad8d4e1ec8" alt="Mail" width="40" height="40"/>
-<a href="https://www.linkedin.com/in/akhilesh-h-m-" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/80709444-3bba-4e73-b2f3-10829747e433" alt="LinkedIn" style="border-radius:50%;" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/akhilesh-h-m-" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/80709444-3bba-4e73-b2f3-10829747e433" alt="LinkedIn" width="40" height="40"/>
 
 
 <!--
