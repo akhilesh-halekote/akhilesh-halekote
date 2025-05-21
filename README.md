@@ -20,7 +20,7 @@
 <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ed60fff7-58e9-49d4-b559-b5537d125c02" alt="pytest" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/a/appium.svg" alt="appium" width="40" height="40"/> </a>
-<a href="https://smartbear.com/product/testcomplete/" target="_blank" rel="noreferrer"> <img src="https://qualitywatcher.com/wp-content/uploads/2015/04/testcomplete-logo-rs.png" alt="TestComplete" width="40" height="40"/> </a>
+<a href="https://smartbear.com/product/testcomplete/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/313ad0f0-3e42-400b-8630-f27d88649c7d" alt="TestComplete" width="40" height="40"/> </a>
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://scalac.io/wp-content/uploads/Rest-Asure.png" alt="Rest Assured" width="40" height="40"/> </a>
 <a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/03d8c2ef-cce1-4d9c-b97b-48b7ccbf143e" alt="TestNG" width="40" height="40"/> </a>
 
@@ -49,7 +49,7 @@ https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/>
 
 #### AI Assistants:
-<a href="" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" alt="CoPilot" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/6f5053c8-5e7f-4f6b-a64f-b0cfd01e50af" alt="CoPilot" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cursorrules.svg" alt="Cursor" width="40" height="40"/>
 
 --- 
