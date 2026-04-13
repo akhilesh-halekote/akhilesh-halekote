@@ -19,7 +19,6 @@
 ### 🛠️ Tech Stack
 <p align="center">
  <img width="600" height="800" alt="AkhileshTechStack" src="https://github.com/user-attachments/assets/35690367-53ab-4213-b1f9-36245d0aaa4a" />
-
 </p>
 
 ---
@@ -45,6 +44,20 @@
 
 ---
 
-<p align="center">
+### :scroll: Certificates
+
+- <a href="https://www.credly.com/badges/c0a063a4-6572-4bd5-9618-9c18b9af5029">
+  Google IT Automation with Python Certificate </a> </br>
+  About: The course was offered by Google and it is rated at 4.8/5 stars out of 50K reviews. </br>
+  Platform: Coursera </br>
+- <a href="https://realpython.com/certificates/9ea7745d-e908-4a0f-9a09-3251291e0d0d/">
+  Intermediate Python Deep Dive: Write Better Python and Build Better Systems </a> </br>
+  About: This is an interactive, cohort-based Python course. This intermediate-level course focuses on Python’s core principles. </br>
+  Platform: Real Python online learning platform. </br>
+  More: Featured in a Real Python Podcast after course completion <a href="https://realpython.com/podcasts/rpp/246/">Listen</a> 
+
+---
+### Quote for Quality
+<p align="left">
   ⭐️ "Quality is never an accident; it is always the result of intelligent effort."
 </p>
