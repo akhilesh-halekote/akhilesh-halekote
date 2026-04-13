@@ -4,13 +4,13 @@
 </p>
 
 ---
-> ### :man_technologist: ${\textsf{\color{lightgreen}About Me}}$
+> ### :man_technologist: About Me
 - 😄 Pronouns: He/him
 - 🖥 Seasoned Software Test Automation Engineer
 - 🎓 Master of Computer Science from the Visvesvaraya Technological University, India
 
 ---
-> ### 🛠 ${\textsf{\color{lightgreen}Tools}}$
+> ### 🛠 Tools
 #### Programming Languages
 <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
