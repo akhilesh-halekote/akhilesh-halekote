@@ -2,17 +2,12 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b0b5338-cf59-441c-8428-67b75028500c" alt="banner" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Akhilesh</h1>
-<h3 align="center">🚀 Software Test Automation Engineer | Quality Advocate | Automation Enthusiast</h3>
-
-<p align="center">
-  💡 Passionate about building scalable automation frameworks & ensuring high-quality software
-</p>
+<h4 align="center">Software Test Automation Engineer | Quality Advocate | Automation Enthusiast</h4>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
+👋 Hello, I'm Akhil. I am passionate about building scalable automation frameworks & ensuring high-quality software.
 
 - 😄 Pronouns: **He/Him**  
 - 🖥️ Seasoned **Software Test Automation Engineer**  
@@ -22,56 +17,14 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+### 🛠️ Tech Stack
+<p align="center">
+  <img  width="600" height="800" alt="AkhileshTechStack" src="https://github.com/user-attachments/assets/7f63c069-40e0-46ab-a3df-5d3cc11f54d4" />  
 </p>
 
-### 🧪 Test Automation  
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://skillicons.dev/icons?i=python" title="PyTest"/>
-  <img src="https://skillicons.dev/icons?i=java" title="TestNG"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Appium-663399?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Rest%20Assured-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TestComplete-FF6C37?style=flat-square"/>
-</p>
-
-### ⚙️ Build & Dependency Management  
-<p>
-  <img src="https://skillicons.dev/icons?i=maven,gradle" />
-</p>
-
-### 🔁 Version Control  
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://img.shields.io/badge/Azure%20TFS-0078D7?style=flat-square"/>
-</p>
-
-### ☁️ DevOps & Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins" />
-</p>
-
-### 🧰 Development Environment  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
-</p>
-
-### 🤖 AI Assistants  
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cursor-4B8BBE?style=flat-square"/>
-</p>
 ---
 
-## 📫 How to Reach Me
-
+### 📫 How to Reach Me
 <p>
   <a href="mailto:akhileshhalekotemohan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -83,7 +36,7 @@
 
 ---
 
-## ✨ Profile Highlights
+### ✨ Profile Highlights
 
 - 🔧 Expert in building **robust automation frameworks**
 - 🔄 Strong experience with **CI/CD pipelines**
@@ -93,5 +46,5 @@
 ---
 
 <p align="center">
-  ⭐️ *"Quality is never an accident; it is always the result of intelligent effort."*
+  ⭐️ "Quality is never an accident; it is always the result of intelligent effort."
 </p>
