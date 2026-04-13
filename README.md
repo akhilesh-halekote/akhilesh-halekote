@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b0b5338-cf59-441c-8428-67b75028500c" alt="banner" />
 </p>
@@ -19,7 +18,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img  width="600" height="800" alt="AkhileshTechStack" src="https://github.com/user-attachments/assets/7f63c069-40e0-46ab-a3df-5d3cc11f54d4" />  
+ <img width="600" height="800" alt="AkhileshTechStack" src="https://github.com/user-attachments/assets/35690367-53ab-4213-b1f9-36245d0aaa4a" />
+
 </p>
 
 ---
