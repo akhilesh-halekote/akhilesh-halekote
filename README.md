@@ -44,6 +44,10 @@
 
 ---
 
+### ✍️ Sharing my 2 cents
+This is my recent blog, so please read and share your thoughts
+- <a href="https://medium.com/@akhilu15/underrated-challenges-of-automated-ui-testing-7c4d8c331e83">Underrated challenges of automated UI tests</a>
+
 ### :scroll: Certificates
 
 - <a href="https://www.credly.com/badges/c0a063a4-6572-4bd5-9618-9c18b9af5029">
